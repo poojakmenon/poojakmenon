@@ -8,9 +8,11 @@ Projects:</h2>
   - [Warehouse Simulator](https://github.com/poojakmenon/WarehouseSimulator) 
 - <b>Eye Level Math Project</b>
   - [Eye Level Math Project](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Huffman Coding</b>
+  - [Huffman Coding](https://github.com/joshmadakor1/Sentinel-Lab)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
