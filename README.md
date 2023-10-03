@@ -3,7 +3,7 @@
 Projects:</h2>
 
 - <b>2048 Game (Object Oriented Programming)</b>
-  - [2048 Game](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [2048 Game](https://github.com/poojakmenon/2048Game)
 - <b>Warehouse Simulator (Data Structures, algorithms, OOP)</b>
   - [Warehouse Simulator](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Eye Level Math Project</b>
