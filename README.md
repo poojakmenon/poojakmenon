@@ -7,7 +7,7 @@ Projects:</h2>
 - <b>Warehouse Simulator (Data Structures, algorithms, OOP)</b>
   - [Warehouse Simulator](https://github.com/poojakmenon/WarehouseSimulator) 
 - <b>Eye Level Math Project</b>
-  - [Eye Level Math Project](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Eye Level Math Project]()
 - <b>Huffman Coding</b>
-  - [Huffman Coding](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Huffman Coding](https://github.com/poojakmenon/HuffmanCoding)
 
