@@ -3,6 +3,7 @@
 Projects:</h2>
 - <b>Personal Website (HTML, CSS, JS, PHP) </b>
   - [Personal Website](https://github.com/poojakmenon/PoojaMenon)
+  - [https://poojakmenon.github.io/PoojaMenon/](https://poojakmenon.github.io/PoojaMenon/)
  
 - <b>2048 Game (Object Oriented Programming)</b>
   - [2048 Game](https://github.com/poojakmenon/2048Game)
