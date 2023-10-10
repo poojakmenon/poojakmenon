@@ -1,7 +1,9 @@
 <h1>Hi, I'm Pooja! 
 
 Projects:</h2>
-
+- <b>Personal Website</b>
+  - [Huffman Coding](https://github.com/poojakmenon/HuffmanCoding)
+ 
 - <b>2048 Game (Object Oriented Programming)</b>
   - [2048 Game](https://github.com/poojakmenon/2048Game)
 - <b>Warehouse Simulator (Data Structures, algorithms, OOP)</b>
@@ -10,4 +12,5 @@ Projects:</h2>
   - [Eye Level Math Project]()
 - <b>Huffman Coding</b>
   - [Huffman Coding](https://github.com/poojakmenon/HuffmanCoding)
+    
 
