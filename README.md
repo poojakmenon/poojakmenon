@@ -1,6 +1,8 @@
 <h1>Hi, I'm Pooja! 
 
 Projects:</h2>
+- <b>Movie Recommendation System (Python - JupyterLab, Scikit Machine Learning library)
+  
 - <b>Personal Website (HTML, CSS, JS, PHP) </b>
   - [Personal Website](https://github.com/poojakmenon/PoojaMenon)
   - [https://poojakmenon.github.io/PoojaMenon/](https://poojakmenon.github.io/PoojaMenon/)
